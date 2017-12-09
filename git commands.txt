@@ -1,0 +1,7 @@
+Git Commands to push the code on github
+
+1 : git init
+2 : git add *
+3 : git commit -m "enter the message"
+4 : git remote add origin enter the path like "https://github.com/nmnts/shut-down-system.git"
+5 : git push -u origin master
